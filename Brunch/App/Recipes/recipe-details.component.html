@@ -1,0 +1,30 @@
+﻿    <div class='panel-body'>
+        <div class='mainClass' *ngIf='menu && menu.length'>
+             <table class='borderless'  *ngFor="#mn of menu">
+                 <thead>
+                     <tr>
+                         <th class="panel-title">{{mn.menuName}}
+                         </th>
+                     </tr>
+                 </thead>
+                    <tbody>
+                        <tr>
+                        <td>{{mn.description}}</td>
+                              
+                        <td>
+                            <img [src]='mn.imageUrl'
+                                 [title]='mn.menuName'
+                                 [style.width.px]='imageWidth'
+                                 [style.margin.px]='imageMargin' />
+                        </td>
+                    </tr>
+        </table>
+            
+        </div>
+    </div>
+    <div class='panel-footer'>
+        <a class='btn btn-default' (click)='onBack()' style='width:80px'>
+            <i class='glyphicon glyphicon-chevron-left'></i> Back!
+        </a>
+    </div>
+

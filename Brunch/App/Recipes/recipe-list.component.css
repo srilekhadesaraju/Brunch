@@ -1,0 +1,38 @@
+﻿
+
+.panel-body {
+    border: none;
+    padding: 20px 50px;
+    margin: 50px;
+    align-content: center;
+}
+
+.linkTitle {
+    color: #000000;
+    margin: 0;
+}
+
+.table-responsive {
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+}
+
+.borderless {
+    color: #000000;
+    margin: 0;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    text-align: center;
+    width: 33.3%;
+    height: 33.3%;
+    float: left;
+    display: inline-block;
+}
+
+    .borderless tr {
+        border: none;
+    }

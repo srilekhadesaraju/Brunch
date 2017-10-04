@@ -1,0 +1,43 @@
+﻿
+.panel-body {
+    border: none;
+    padding: 20px 100px;
+    margin: 5px;
+    width: 100%;
+}
+
+.table-responsive {
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+}
+
+.borderless {
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    width: 33.3%;
+    height: 33.3%;
+    float: left;
+    display: inline-block;
+}
+
+.borderless tr {
+        border: none;
+    }
+
+.searchLogo{
+height:50px;
+width:50px;
+}
+
+.col-md-12 {
+    align-self: center;
+    align-items: center;
+}
+.glyphicon-filter {
+    width: 580px;
+    border-radius: 4px;
+}

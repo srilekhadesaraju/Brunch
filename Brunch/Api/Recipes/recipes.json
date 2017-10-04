@@ -1,0 +1,38 @@
+﻿[
+  {
+    "recipeId": 1,
+    "recipeName": "Indian",
+    "imageUrl": "./Assets/Indian.jpg"
+
+  },
+
+  {
+    "recipeId": 2,
+    "recipeName": "American",
+    "imageUrl": "./Assets/American.jpg"
+
+  },
+
+  {
+    "recipeId": 3,
+    "recipeName": "Chinese",
+    "imageUrl": "./Assets/Chinese.jpg"
+
+  },
+
+  {
+    "recipeId": 4,
+    "recipeName": "Italian",
+    "imageUrl": "./Assets/Italian.jpg"
+
+  },
+
+  {
+    "recipeId": 5,
+    "recipeName": "Mexican",
+    "imageUrl": "./Assets/Mexican.jpg"
+
+  }
+
+
+]

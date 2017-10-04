@@ -1,0 +1,542 @@
+﻿[
+  {
+    "menuID": 1,
+    "recipeNumber": 1,
+    "menuName": "Gutti Vankaya",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/guttivankay.jpg"
+
+  },
+
+  {
+    "menuID": 1,
+    "recipeNumber": 1,
+    "menuName": "Dhokla",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/Dhokla.jpg"
+
+  },
+
+  {
+    "menuID": 7,
+    "recipeNumber": 1,
+    "menuName": "Pav Bhaji",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/pavbhaji.jpg"
+
+  },
+
+  {
+    "menuID": 8,
+    "recipeNumber": 1,
+    "menuName": "Samosa Chaat",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/samosachaat.jpg"
+
+  },
+
+  {
+    "menuID": 9,
+    "recipeNumber": 1,
+    "menuName": "Pani Puri",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/panipuri.jpg"
+
+  },
+
+  {
+    "menuID": 10,
+    "recipeNumber": 1,
+    "menuName": "Gulab Jamoon",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/gulabjamoon.jpg"
+
+  },
+
+  {
+    "menuID": 11,
+    "recipeNumber": 1,
+    "menuName": "Rasagulla",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/rasgulla.jpg"
+
+  },
+  {
+    "menuID": 2,
+    "recipeNumber": 1,
+    "menuName": "Naan",
+    "description": "This is a Naan",
+    "imageUrl": "./Assets/Naan.jpg"
+
+  },
+
+  {
+    "menuID": 3,
+    "recipeNumber": 2,
+    "menuName": "PBJ",
+    "description": "This is a PBJ",
+    "imageUrl": "./Assets/pbj.jpg"
+
+  },
+
+  {
+    "menuID": 4,
+    "recipeNumber": 2,
+    "menuName": "Muffin",
+    "description": "This is a Muffin",
+    "imageUrl": "./Assets/muffin.jpg"
+
+  },
+
+  {
+    "menuID": 5,
+    "recipeNumber": 2,
+    "menuName": "Donought",
+    "description": "This is a Donut",
+    "imageUrl": "./Assets/donut.jpg"
+
+  },
+
+  {
+    "menuID": 6,
+    "recipeNumber": 5,
+    "menuName": "Quesadilla",
+    "description": "This is a Quesadilla",
+    "imageUrl": "./Assets/quesadilla.jpg"
+
+  },
+
+  {
+    "menuID": 13,
+    "recipeNumber": 1,
+    "menuName": "Jalebi",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/jalebi.jpg"
+
+  },
+
+  {
+    "menuID": 14,
+    "recipeNumber": 1,
+    "menuName": "Laddu",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/laddu.jpg"
+
+  },
+
+  {
+    "menuID": 15,
+    "recipeNumber": 1,
+    "menuName": "Dosa",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/dosa.jpg"
+
+  },
+
+  {
+    "menuID": 16,
+    "recipeNumber": 1,
+    "menuName": "Idli",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/idli.jpg"
+
+  },
+
+  {
+    "menuID": 17,
+    "recipeNumber": 1,
+    "menuName": "Dum Biryani",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/biryani.jpg"
+
+  },
+
+  {
+    "menuID": 18,
+    "recipeNumber": 1,
+    "menuName": "Pulihora",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/pulihora.jpg"
+
+  },
+
+  {
+    "menuID": 19,
+    "recipeNumber": 1,
+    "menuName": "Panner Butter Masala",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/panner.jpg"
+
+  },
+
+  {
+    "menuID": 20,
+    "recipeNumber": 3,
+    "menuName": "Spring Rolls",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/springroll.jpg"
+
+  },
+
+ 
+
+  {
+    "menuID": 22,
+    "recipeNumber": 3,
+    "menuName": "Chinese Noodles",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/noodles.jpg"
+
+  },
+
+  {
+    "menuID": 23,
+    "recipeNumber": 4,
+    "menuName": "Pizza",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/pizza.jpg"
+
+  },
+
+  {
+    "menuID": 24,
+    "recipeNumber": 5,
+    "menuName": "Nachos",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/nachos.jpg"
+
+  },
+
+  {
+    "menuID": 21,
+    "recipeNumber": 2,
+    "menuName": "Burger",
+    "description": [
+      "preparing dhokla mix batter:",
+      "firstly, take a bowl and add besan, semolina, hing, turmeric powder, ginger - chilli paste and salt.",
+      "and mix well with a help of whisk. now add yogurt, oil, little by little water and mix thoroughly.",
+      "make dosa batter consistency",
+      "in addition, add 3 tbsp lime juice.",
+      "also add baking soda, baking powder and mix thoroughly.",
+      "now grease the tray or tiffin box with oil.",
+      "then, immediately pour the mixture into the tray.",
+      "finally, place it in the steamer and steam for 10-15 mins.",
+      "tempering the dhokla:",
+      "firstly, heat oil in the pan and add mustard seeds chopped green chillies and curry leaves.",
+      "then add sugar, little water, salt and boil it until the sugar dissolves and switch of the flame.",
+      "later add lime juice and pour this mixture on the steamed dhokla.",
+      "transfer it into a plate and cut into desired pieces.",
+      "now garnish with coriander leaves.",
+      "finally enjoy it with green chutney and tamarind chutney."
+    ],
+    "imageUrl": "./Assets/burger.jpg"
+
+  }
+
+]

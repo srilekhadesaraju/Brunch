@@ -1,0 +1,41 @@
+﻿
+    
+    <div class='panel-body' *ngIf='recipes && recipes.length'>
+        
+        <!-- table -->
+        <div class='table-responsive'>
+            <table class='borderless' *ngFor="#recipe of recipes">
+                <tbody>
+                    <tr>
+                        <td>
+                            <table>
+
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <img [src]='recipe.imageUrl'
+                                                 [title]='recipe.recipeName'
+                                                 [style.width.px]='imageWidth'
+                                                 [style.height.px]='imageHeight'
+                                                 [style.margin.px]='imageMargin' />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                <td>
+                                    <a [routerLink]="['/recipe', recipe.recipeId]">
+                                        {{recipe.recipeName}}
+                                    </a>
+                                    
+
+                                </td>
+                        </tr>
+                                    </table>
+                            </td>
+</tr>
+
+                </tbody>
+            </table>
+            <div>
+            </div>
+        </div>
+    </div>
